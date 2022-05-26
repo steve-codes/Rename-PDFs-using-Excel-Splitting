@@ -4,7 +4,7 @@ A small script that renames PDFs using an Excel file and splits PDF pages.
 #### IMPORTANT
 BACKUP YOUR FILES BEFORE PROCEEDING.
 
-**VIDEO TUTORIAL/EXPLANIATION:**
+## **VIDEO TUTORIAL/EXPLANIATION:**
 
 https://www.youtube.com/watch?v=E__BORbSOdk
 
