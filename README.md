@@ -1,4 +1,4 @@
-# Splitting-and-Renaming-PDFs-using-Excel
+# Splitting PDFs + renaming PDFs (using Excel)
 A small script that renames PDFs using an Excel file and splits PDF pages.
 
 #### IMPORTANT
